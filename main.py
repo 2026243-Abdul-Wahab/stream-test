@@ -20,5 +20,9 @@ data_load_state = st.text('Loading data...')
 data = load_data(10000)
 data_load_state.text('Done!')
 
-st.subheader("Uber Pickups in NYC")
+st.subheader("Raw Data")
 st.write(data)
+
+st.subheader("Number of Pickups per hour")
+hist_value = np.histogram(data[DATE_COLUMNS].dt.hour, bins=24, range=(0,24))[0]
+st.bar_chart(hist_value)
