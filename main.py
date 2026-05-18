@@ -17,5 +17,8 @@ def load_data(nrows):
     return data
 
 data_load_state = st.text('Loading data...')
-load_data(10000)
+data = load_data(10000)
 data_load_state.text('Done!')
+
+st.subheader("Uber Pickups in NYC")
+st.write(data)
