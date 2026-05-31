@@ -6,8 +6,7 @@ st.title("Uber Pickups in NYC")
 
 DATE_COLUMNS="date/time"
 
-DATA_URL = ('https://s3-us-west-2.amazonaws.com/'
-            'streamlit-demo-data/uber-raw-data-sep14.csv.gz')
+DATA_URL = ('https://s3-us-west-2.amazonaws.com/streamlit-demo-data/uber-raw-data-sep14.csv.gz')
 
 def load_data(nrows):
     data = pd.read_csv(DATA_URL, nrows=nrows)
