@@ -62,11 +62,11 @@ COLOURS = {
 @st.cache_resource(show_spinner=False)
 def get_engine() -> Tuple[Optional[Engine], str, Optional[str]]:
     """Create a database connection using the same credentials as the notebook."""
-    mysql_host = os.getenv("MYSQL_HOST", "localhost")
-    mysql_port = int(os.getenv("MYSQL_PORT", "3306"))
-    mysql_user = os.getenv("MYSQL_USER", "root")
-    mysql_password = os.getenv("MYSQL_PASSWORD", "")
-    mysql_database = os.getenv("MYSQL_DATABASE", "ireland_agriculture_db")
+    mysql_host = "localhost"
+    mysql_port = "3306"
+    mysql_user = "classpractice"
+    mysql_password = "Wahab@9244"
+    mysql_database = "ireland_agriculture_db"
 
     mysql_url = (
         f"mysql+pymysql://{mysql_user}:{quote_plus(mysql_password)}"
