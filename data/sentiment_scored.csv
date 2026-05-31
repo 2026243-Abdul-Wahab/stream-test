@@ -1,0 +1,151 @@
+title,perspective,seendate,domain,neg,neu,pos,compound,tb_polarity,tb_subjectivity,sentiment_label
+Irish dairy farmers face challenges amid rising feed costs,producer,2023-01-01,synthetic,0.0,0.86,0.14,0.0772,0.0,0.0,Positive
+Record milk production in Ireland following quota abolition,producer,2023-01-01,synthetic,0.0,1.0,0.0,0.0,0.0,0.0,Neutral
+Irish beef exports reach new high in European markets,producer,2023-01-01,synthetic,0.0,0.879,0.121,0.0258,0.0,0.0,Neutral
+Teagasc reports strong farm incomes for Irish livestock sector,producer,2023-01-01,synthetic,0.0,0.708,0.292,0.5106,0.0,0.0,Positive
+CAP payments support Irish farming community sustainability,producer,2023-01-01,synthetic,0.0,0.69,0.31,0.4019,0.0,0.0,Positive
+Organic farming expansion in Ireland gains momentum,producer,2023-01-01,synthetic,0.0,0.714,0.286,0.34,0.0,0.0,Positive
+Irish agri-food exports exceed EUR 16 billion for the first time,producer,2023-01-01,synthetic,0.0,1.0,0.0,0.0,0.0,0.0,Neutral
+Farmers concerned over fertilizer price increases impacting margins,producer,2023-01-01,synthetic,0.0,1.0,0.0,0.0,0.0,0.0,Neutral
+New nitrates regulations worry Irish tillage farmers,producer,2023-01-01,synthetic,0.326,0.674,0.0,-0.4404,0.0,0.0,Negative
+Ireland ranks among top EU dairy producers per capita,producer,2023-01-01,synthetic,0.0,0.816,0.184,0.2023,0.0,0.0,Positive
+Irish Farmers Association welcomes new CAP reform support,producer,2023-01-01,synthetic,0.0,0.526,0.474,0.6597,0.0,0.0,Positive
+Severe weather threatens Irish crop yields this harvest season,producer,2023-01-01,synthetic,0.426,0.574,0.0,-0.6369,0.0,0.0,Negative
+Government investment in rural agriculture welcomed by farmers,producer,2023-01-01,synthetic,0.0,0.745,0.255,0.34,0.0,0.0,Positive
+Prolonged drought conditions reduce Irish grass growth forecasts,producer,2023-01-01,synthetic,0.0,0.729,0.271,0.3818,0.0,0.0,Positive
+Positive outlook for Irish pork sector in Asian export markets,producer,2023-01-01,synthetic,0.0,0.714,0.286,0.5574,0.0,0.0,Positive
+Irish dairy farmers face challenges amid rising feed costs,producer,2023-01-01,synthetic,0.0,0.86,0.14,0.0772,0.0,0.0,Positive
+Record milk production in Ireland following quota abolition,producer,2023-01-01,synthetic,0.0,1.0,0.0,0.0,0.0,0.0,Neutral
+Irish beef exports reach new high in European markets,producer,2023-01-01,synthetic,0.0,0.879,0.121,0.0258,0.0,0.0,Neutral
+Teagasc reports strong farm incomes for Irish livestock sector,producer,2023-01-01,synthetic,0.0,0.708,0.292,0.5106,0.0,0.0,Positive
+CAP payments support Irish farming community sustainability,producer,2023-01-01,synthetic,0.0,0.69,0.31,0.4019,0.0,0.0,Positive
+Organic farming expansion in Ireland gains momentum,producer,2023-01-01,synthetic,0.0,0.714,0.286,0.34,0.0,0.0,Positive
+Irish agri-food exports exceed EUR 16 billion for the first time,producer,2023-01-01,synthetic,0.0,1.0,0.0,0.0,0.0,0.0,Neutral
+Farmers concerned over fertilizer price increases impacting margins,producer,2023-01-01,synthetic,0.0,1.0,0.0,0.0,0.0,0.0,Neutral
+New nitrates regulations worry Irish tillage farmers,producer,2023-01-01,synthetic,0.326,0.674,0.0,-0.4404,0.0,0.0,Negative
+Ireland ranks among top EU dairy producers per capita,producer,2023-01-01,synthetic,0.0,0.816,0.184,0.2023,0.0,0.0,Positive
+Irish Farmers Association welcomes new CAP reform support,producer,2023-01-01,synthetic,0.0,0.526,0.474,0.6597,0.0,0.0,Positive
+Severe weather threatens Irish crop yields this harvest season,producer,2023-01-01,synthetic,0.426,0.574,0.0,-0.6369,0.0,0.0,Negative
+Government investment in rural agriculture welcomed by farmers,producer,2023-01-01,synthetic,0.0,0.745,0.255,0.34,0.0,0.0,Positive
+Prolonged drought conditions reduce Irish grass growth forecasts,producer,2023-01-01,synthetic,0.0,0.729,0.271,0.3818,0.0,0.0,Positive
+Positive outlook for Irish pork sector in Asian export markets,producer,2023-01-01,synthetic,0.0,0.714,0.286,0.5574,0.0,0.0,Positive
+Irish dairy farmers face challenges amid rising feed costs,producer,2023-01-01,synthetic,0.0,0.86,0.14,0.0772,0.0,0.0,Positive
+Record milk production in Ireland following quota abolition,producer,2023-01-01,synthetic,0.0,1.0,0.0,0.0,0.0,0.0,Neutral
+Irish beef exports reach new high in European markets,producer,2023-01-01,synthetic,0.0,0.879,0.121,0.0258,0.0,0.0,Neutral
+Teagasc reports strong farm incomes for Irish livestock sector,producer,2023-01-01,synthetic,0.0,0.708,0.292,0.5106,0.0,0.0,Positive
+CAP payments support Irish farming community sustainability,producer,2023-01-01,synthetic,0.0,0.69,0.31,0.4019,0.0,0.0,Positive
+Organic farming expansion in Ireland gains momentum,producer,2023-01-01,synthetic,0.0,0.714,0.286,0.34,0.0,0.0,Positive
+Irish agri-food exports exceed EUR 16 billion for the first time,producer,2023-01-01,synthetic,0.0,1.0,0.0,0.0,0.0,0.0,Neutral
+Farmers concerned over fertilizer price increases impacting margins,producer,2023-01-01,synthetic,0.0,1.0,0.0,0.0,0.0,0.0,Neutral
+New nitrates regulations worry Irish tillage farmers,producer,2023-01-01,synthetic,0.326,0.674,0.0,-0.4404,0.0,0.0,Negative
+Ireland ranks among top EU dairy producers per capita,producer,2023-01-01,synthetic,0.0,0.816,0.184,0.2023,0.0,0.0,Positive
+Irish Farmers Association welcomes new CAP reform support,producer,2023-01-01,synthetic,0.0,0.526,0.474,0.6597,0.0,0.0,Positive
+Severe weather threatens Irish crop yields this harvest season,producer,2023-01-01,synthetic,0.426,0.574,0.0,-0.6369,0.0,0.0,Negative
+Government investment in rural agriculture welcomed by farmers,producer,2023-01-01,synthetic,0.0,0.745,0.255,0.34,0.0,0.0,Positive
+Prolonged drought conditions reduce Irish grass growth forecasts,producer,2023-01-01,synthetic,0.0,0.729,0.271,0.3818,0.0,0.0,Positive
+Positive outlook for Irish pork sector in Asian export markets,producer,2023-01-01,synthetic,0.0,0.714,0.286,0.5574,0.0,0.0,Positive
+Irish dairy farmers face challenges amid rising feed costs,producer,2023-01-01,synthetic,0.0,0.86,0.14,0.0772,0.0,0.0,Positive
+Record milk production in Ireland following quota abolition,producer,2023-01-01,synthetic,0.0,1.0,0.0,0.0,0.0,0.0,Neutral
+Irish beef exports reach new high in European markets,producer,2023-01-01,synthetic,0.0,0.879,0.121,0.0258,0.0,0.0,Neutral
+Teagasc reports strong farm incomes for Irish livestock sector,producer,2023-01-01,synthetic,0.0,0.708,0.292,0.5106,0.0,0.0,Positive
+CAP payments support Irish farming community sustainability,producer,2023-01-01,synthetic,0.0,0.69,0.31,0.4019,0.0,0.0,Positive
+Organic farming expansion in Ireland gains momentum,producer,2023-01-01,synthetic,0.0,0.714,0.286,0.34,0.0,0.0,Positive
+Irish agri-food exports exceed EUR 16 billion for the first time,producer,2023-01-01,synthetic,0.0,1.0,0.0,0.0,0.0,0.0,Neutral
+Farmers concerned over fertilizer price increases impacting margins,producer,2023-01-01,synthetic,0.0,1.0,0.0,0.0,0.0,0.0,Neutral
+New nitrates regulations worry Irish tillage farmers,producer,2023-01-01,synthetic,0.326,0.674,0.0,-0.4404,0.0,0.0,Negative
+Ireland ranks among top EU dairy producers per capita,producer,2023-01-01,synthetic,0.0,0.816,0.184,0.2023,0.0,0.0,Positive
+Irish Farmers Association welcomes new CAP reform support,producer,2023-01-01,synthetic,0.0,0.526,0.474,0.6597,0.0,0.0,Positive
+Severe weather threatens Irish crop yields this harvest season,producer,2023-01-01,synthetic,0.426,0.574,0.0,-0.6369,0.0,0.0,Negative
+Government investment in rural agriculture welcomed by farmers,producer,2023-01-01,synthetic,0.0,0.745,0.255,0.34,0.0,0.0,Positive
+Prolonged drought conditions reduce Irish grass growth forecasts,producer,2023-01-01,synthetic,0.0,0.729,0.271,0.3818,0.0,0.0,Positive
+Positive outlook for Irish pork sector in Asian export markets,producer,2023-01-01,synthetic,0.0,0.714,0.286,0.5574,0.0,0.0,Positive
+Irish dairy farmers face challenges amid rising feed costs,producer,2023-01-01,synthetic,0.0,0.86,0.14,0.0772,0.0,0.0,Positive
+Record milk production in Ireland following quota abolition,producer,2023-01-01,synthetic,0.0,1.0,0.0,0.0,0.0,0.0,Neutral
+Irish beef exports reach new high in European markets,producer,2023-01-01,synthetic,0.0,0.879,0.121,0.0258,0.0,0.0,Neutral
+Teagasc reports strong farm incomes for Irish livestock sector,producer,2023-01-01,synthetic,0.0,0.708,0.292,0.5106,0.0,0.0,Positive
+CAP payments support Irish farming community sustainability,producer,2023-01-01,synthetic,0.0,0.69,0.31,0.4019,0.0,0.0,Positive
+Organic farming expansion in Ireland gains momentum,producer,2023-01-01,synthetic,0.0,0.714,0.286,0.34,0.0,0.0,Positive
+Irish agri-food exports exceed EUR 16 billion for the first time,producer,2023-01-01,synthetic,0.0,1.0,0.0,0.0,0.0,0.0,Neutral
+Farmers concerned over fertilizer price increases impacting margins,producer,2023-01-01,synthetic,0.0,1.0,0.0,0.0,0.0,0.0,Neutral
+New nitrates regulations worry Irish tillage farmers,producer,2023-01-01,synthetic,0.326,0.674,0.0,-0.4404,0.0,0.0,Negative
+Ireland ranks among top EU dairy producers per capita,producer,2023-01-01,synthetic,0.0,0.816,0.184,0.2023,0.0,0.0,Positive
+Irish Farmers Association welcomes new CAP reform support,producer,2023-01-01,synthetic,0.0,0.526,0.474,0.6597,0.0,0.0,Positive
+Severe weather threatens Irish crop yields this harvest season,producer,2023-01-01,synthetic,0.426,0.574,0.0,-0.6369,0.0,0.0,Negative
+Government investment in rural agriculture welcomed by farmers,producer,2023-01-01,synthetic,0.0,0.745,0.255,0.34,0.0,0.0,Positive
+Prolonged drought conditions reduce Irish grass growth forecasts,producer,2023-01-01,synthetic,0.0,0.729,0.271,0.3818,0.0,0.0,Positive
+Positive outlook for Irish pork sector in Asian export markets,producer,2023-01-01,synthetic,0.0,0.714,0.286,0.5574,0.0,0.0,Positive
+Irish consumers face higher food prices at supermarket checkouts,consumer,2023-01-01,synthetic,0.0,1.0,0.0,0.0,0.0,0.0,Neutral
+Demand for Irish organic produce rises among health-conscious shoppers,consumer,2023-01-01,synthetic,0.158,0.842,0.0,-0.128,0.0,0.0,Negative
+Consumers support Irish farmers through local market purchasing,consumer,2023-01-01,synthetic,0.0,0.722,0.278,0.4019,0.0,0.0,Positive
+Food inflation hits Irish households as agricultural costs rise,consumer,2023-01-01,synthetic,0.0,1.0,0.0,0.0,0.0,0.0,Neutral
+Irish consumers increasingly aware of food provenance and labelling,consumer,2023-01-01,synthetic,0.0,1.0,0.0,0.0,0.0,0.0,Neutral
+Supermarkets see surge in demand for locally sourced Irish beef,consumer,2023-01-01,synthetic,0.143,0.857,0.0,-0.128,0.0,0.0,Negative
+Consumer groups call for transparency in Irish food supply chain,consumer,2023-01-01,synthetic,0.0,1.0,0.0,0.0,0.0,0.0,Neutral
+Rising grocery bills strain Irish household budgets in 2024,consumer,2023-01-01,synthetic,0.13,0.87,0.0,-0.0516,0.0,0.0,Negative
+Demand for Irish dairy products grows in premium food segments,consumer,2023-01-01,synthetic,0.143,0.857,0.0,-0.128,0.0,0.0,Negative
+Consumers willing to pay more for sustainably produced Irish food,consumer,2023-01-01,synthetic,0.135,0.865,0.0,-0.1027,0.0,0.0,Negative
+Irish food security concerns raised amid global supply disruptions,consumer,2023-01-01,synthetic,0.203,0.593,0.203,0.0,0.0,0.0,Neutral
+Local food movements thrive as consumers reconnect with Irish farming,consumer,2023-01-01,synthetic,0.0,1.0,0.0,0.0,0.0,0.0,Neutral
+Prices of fresh produce rise in Irish supermarkets this quarter,consumer,2023-01-01,synthetic,0.0,0.796,0.204,0.3182,0.0,0.0,Positive
+Consumer confidence in Irish food quality remains high in surveys,consumer,2023-01-01,synthetic,0.0,0.732,0.268,0.5106,0.0,0.0,Positive
+Irish shoppers prioritise animal welfare in food purchasing choices,consumer,2023-01-01,synthetic,0.0,1.0,0.0,0.0,0.0,0.0,Neutral
+Irish consumers face higher food prices at supermarket checkouts,consumer,2023-01-01,synthetic,0.0,1.0,0.0,0.0,0.0,0.0,Neutral
+Demand for Irish organic produce rises among health-conscious shoppers,consumer,2023-01-01,synthetic,0.158,0.842,0.0,-0.128,0.0,0.0,Negative
+Consumers support Irish farmers through local market purchasing,consumer,2023-01-01,synthetic,0.0,0.722,0.278,0.4019,0.0,0.0,Positive
+Food inflation hits Irish households as agricultural costs rise,consumer,2023-01-01,synthetic,0.0,1.0,0.0,0.0,0.0,0.0,Neutral
+Irish consumers increasingly aware of food provenance and labelling,consumer,2023-01-01,synthetic,0.0,1.0,0.0,0.0,0.0,0.0,Neutral
+Supermarkets see surge in demand for locally sourced Irish beef,consumer,2023-01-01,synthetic,0.143,0.857,0.0,-0.128,0.0,0.0,Negative
+Consumer groups call for transparency in Irish food supply chain,consumer,2023-01-01,synthetic,0.0,1.0,0.0,0.0,0.0,0.0,Neutral
+Rising grocery bills strain Irish household budgets in 2024,consumer,2023-01-01,synthetic,0.13,0.87,0.0,-0.0516,0.0,0.0,Negative
+Demand for Irish dairy products grows in premium food segments,consumer,2023-01-01,synthetic,0.143,0.857,0.0,-0.128,0.0,0.0,Negative
+Consumers willing to pay more for sustainably produced Irish food,consumer,2023-01-01,synthetic,0.135,0.865,0.0,-0.1027,0.0,0.0,Negative
+Irish food security concerns raised amid global supply disruptions,consumer,2023-01-01,synthetic,0.203,0.593,0.203,0.0,0.0,0.0,Neutral
+Local food movements thrive as consumers reconnect with Irish farming,consumer,2023-01-01,synthetic,0.0,1.0,0.0,0.0,0.0,0.0,Neutral
+Prices of fresh produce rise in Irish supermarkets this quarter,consumer,2023-01-01,synthetic,0.0,0.796,0.204,0.3182,0.0,0.0,Positive
+Consumer confidence in Irish food quality remains high in surveys,consumer,2023-01-01,synthetic,0.0,0.732,0.268,0.5106,0.0,0.0,Positive
+Irish shoppers prioritise animal welfare in food purchasing choices,consumer,2023-01-01,synthetic,0.0,1.0,0.0,0.0,0.0,0.0,Neutral
+Irish consumers face higher food prices at supermarket checkouts,consumer,2023-01-01,synthetic,0.0,1.0,0.0,0.0,0.0,0.0,Neutral
+Demand for Irish organic produce rises among health-conscious shoppers,consumer,2023-01-01,synthetic,0.158,0.842,0.0,-0.128,0.0,0.0,Negative
+Consumers support Irish farmers through local market purchasing,consumer,2023-01-01,synthetic,0.0,0.722,0.278,0.4019,0.0,0.0,Positive
+Food inflation hits Irish households as agricultural costs rise,consumer,2023-01-01,synthetic,0.0,1.0,0.0,0.0,0.0,0.0,Neutral
+Irish consumers increasingly aware of food provenance and labelling,consumer,2023-01-01,synthetic,0.0,1.0,0.0,0.0,0.0,0.0,Neutral
+Supermarkets see surge in demand for locally sourced Irish beef,consumer,2023-01-01,synthetic,0.143,0.857,0.0,-0.128,0.0,0.0,Negative
+Consumer groups call for transparency in Irish food supply chain,consumer,2023-01-01,synthetic,0.0,1.0,0.0,0.0,0.0,0.0,Neutral
+Rising grocery bills strain Irish household budgets in 2024,consumer,2023-01-01,synthetic,0.13,0.87,0.0,-0.0516,0.0,0.0,Negative
+Demand for Irish dairy products grows in premium food segments,consumer,2023-01-01,synthetic,0.143,0.857,0.0,-0.128,0.0,0.0,Negative
+Consumers willing to pay more for sustainably produced Irish food,consumer,2023-01-01,synthetic,0.135,0.865,0.0,-0.1027,0.0,0.0,Negative
+Irish food security concerns raised amid global supply disruptions,consumer,2023-01-01,synthetic,0.203,0.593,0.203,0.0,0.0,0.0,Neutral
+Local food movements thrive as consumers reconnect with Irish farming,consumer,2023-01-01,synthetic,0.0,1.0,0.0,0.0,0.0,0.0,Neutral
+Prices of fresh produce rise in Irish supermarkets this quarter,consumer,2023-01-01,synthetic,0.0,0.796,0.204,0.3182,0.0,0.0,Positive
+Consumer confidence in Irish food quality remains high in surveys,consumer,2023-01-01,synthetic,0.0,0.732,0.268,0.5106,0.0,0.0,Positive
+Irish shoppers prioritise animal welfare in food purchasing choices,consumer,2023-01-01,synthetic,0.0,1.0,0.0,0.0,0.0,0.0,Neutral
+Irish consumers face higher food prices at supermarket checkouts,consumer,2023-01-01,synthetic,0.0,1.0,0.0,0.0,0.0,0.0,Neutral
+Demand for Irish organic produce rises among health-conscious shoppers,consumer,2023-01-01,synthetic,0.158,0.842,0.0,-0.128,0.0,0.0,Negative
+Consumers support Irish farmers through local market purchasing,consumer,2023-01-01,synthetic,0.0,0.722,0.278,0.4019,0.0,0.0,Positive
+Food inflation hits Irish households as agricultural costs rise,consumer,2023-01-01,synthetic,0.0,1.0,0.0,0.0,0.0,0.0,Neutral
+Irish consumers increasingly aware of food provenance and labelling,consumer,2023-01-01,synthetic,0.0,1.0,0.0,0.0,0.0,0.0,Neutral
+Supermarkets see surge in demand for locally sourced Irish beef,consumer,2023-01-01,synthetic,0.143,0.857,0.0,-0.128,0.0,0.0,Negative
+Consumer groups call for transparency in Irish food supply chain,consumer,2023-01-01,synthetic,0.0,1.0,0.0,0.0,0.0,0.0,Neutral
+Rising grocery bills strain Irish household budgets in 2024,consumer,2023-01-01,synthetic,0.13,0.87,0.0,-0.0516,0.0,0.0,Negative
+Demand for Irish dairy products grows in premium food segments,consumer,2023-01-01,synthetic,0.143,0.857,0.0,-0.128,0.0,0.0,Negative
+Consumers willing to pay more for sustainably produced Irish food,consumer,2023-01-01,synthetic,0.135,0.865,0.0,-0.1027,0.0,0.0,Negative
+Irish food security concerns raised amid global supply disruptions,consumer,2023-01-01,synthetic,0.203,0.593,0.203,0.0,0.0,0.0,Neutral
+Local food movements thrive as consumers reconnect with Irish farming,consumer,2023-01-01,synthetic,0.0,1.0,0.0,0.0,0.0,0.0,Neutral
+Prices of fresh produce rise in Irish supermarkets this quarter,consumer,2023-01-01,synthetic,0.0,0.796,0.204,0.3182,0.0,0.0,Positive
+Consumer confidence in Irish food quality remains high in surveys,consumer,2023-01-01,synthetic,0.0,0.732,0.268,0.5106,0.0,0.0,Positive
+Irish shoppers prioritise animal welfare in food purchasing choices,consumer,2023-01-01,synthetic,0.0,1.0,0.0,0.0,0.0,0.0,Neutral
+Irish consumers face higher food prices at supermarket checkouts,consumer,2023-01-01,synthetic,0.0,1.0,0.0,0.0,0.0,0.0,Neutral
+Demand for Irish organic produce rises among health-conscious shoppers,consumer,2023-01-01,synthetic,0.158,0.842,0.0,-0.128,0.0,0.0,Negative
+Consumers support Irish farmers through local market purchasing,consumer,2023-01-01,synthetic,0.0,0.722,0.278,0.4019,0.0,0.0,Positive
+Food inflation hits Irish households as agricultural costs rise,consumer,2023-01-01,synthetic,0.0,1.0,0.0,0.0,0.0,0.0,Neutral
+Irish consumers increasingly aware of food provenance and labelling,consumer,2023-01-01,synthetic,0.0,1.0,0.0,0.0,0.0,0.0,Neutral
+Supermarkets see surge in demand for locally sourced Irish beef,consumer,2023-01-01,synthetic,0.143,0.857,0.0,-0.128,0.0,0.0,Negative
+Consumer groups call for transparency in Irish food supply chain,consumer,2023-01-01,synthetic,0.0,1.0,0.0,0.0,0.0,0.0,Neutral
+Rising grocery bills strain Irish household budgets in 2024,consumer,2023-01-01,synthetic,0.13,0.87,0.0,-0.0516,0.0,0.0,Negative
+Demand for Irish dairy products grows in premium food segments,consumer,2023-01-01,synthetic,0.143,0.857,0.0,-0.128,0.0,0.0,Negative
+Consumers willing to pay more for sustainably produced Irish food,consumer,2023-01-01,synthetic,0.135,0.865,0.0,-0.1027,0.0,0.0,Negative
+Irish food security concerns raised amid global supply disruptions,consumer,2023-01-01,synthetic,0.203,0.593,0.203,0.0,0.0,0.0,Neutral
+Local food movements thrive as consumers reconnect with Irish farming,consumer,2023-01-01,synthetic,0.0,1.0,0.0,0.0,0.0,0.0,Neutral
+Prices of fresh produce rise in Irish supermarkets this quarter,consumer,2023-01-01,synthetic,0.0,0.796,0.204,0.3182,0.0,0.0,Positive
+Consumer confidence in Irish food quality remains high in surveys,consumer,2023-01-01,synthetic,0.0,0.732,0.268,0.5106,0.0,0.0,Positive
+Irish shoppers prioritise animal welfare in food purchasing choices,consumer,2023-01-01,synthetic,0.0,1.0,0.0,0.0,0.0,0.0,Neutral
